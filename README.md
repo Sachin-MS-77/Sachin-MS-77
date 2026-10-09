@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="cybo-logo.png" alt="CYBO cyber guardian logo" width="240" />
+
 # Hi, I'm Sachin M
 ### Cybersecurity • Security Engineering • Python
 
