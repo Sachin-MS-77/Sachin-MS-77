@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="cybo-logo.png" alt="CYBO cyber guardian logo" width="240" />
+<img src="security-logo.png" alt="Professional cybersecurity shield emblem" width="150" />
 
 # Hi, I'm Sachin M
 ### Cybersecurity • Security Engineering • Python
