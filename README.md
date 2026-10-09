@@ -18,7 +18,7 @@ Building tools that turn security evidence into clear, actionable decisions.
 
 ## About me
 
-I'm a Computer and Communication Engineering student at Rathinam Technical Campus in Coimbatore, India (2024–2028). My interests span web application security, network and IoT security, and evidence-preserving investigation tools.
+I'm a Computer Science and Cybersecurity student at Rathinam Technical Campus in Coimbatore, India (2024–2028). My interests span web application security, network and IoT security, and evidence-preserving investigation tools.
 
 - **LOGFLUX contribution:** backend security, integrity and APIs within a four-person team.
 - **Hands-on practice:** penetration testing, OWASP Top 10 research and responsible disclosure.
