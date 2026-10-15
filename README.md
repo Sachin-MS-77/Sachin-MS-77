@@ -12,7 +12,7 @@ Building tools that turn security evidence into clear, actionable decisions.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Security](https://img.shields.io/badge/Focus-Cybersecurity-0F766E?style=flat-square)
 
-[Portfolio](https://sachin-portfolio-six-flame.vercel.app) · [Download resume](https://raw.githubusercontent.com/Sachin-MS-77/Sachin-MS-77/main/assets/Sachin_M_Resume.pdf) · [GitHub projects](https://github.com/Sachin-MS-77?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/m-sachin-802a0a33a/)
+[Portfolio](https://sachin-portfolio-six-flame.vercel.app) · [Download resume](https://raw.githubusercontent.com/Sachin-MS-77/Sachin-MS-77/main/assets/Sachin_M_Resume.pdf) · [GitHub projects](https://github.com/Sachin-MS-77?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/sachin-m-802a0a33a/)
 
 </div>
 
@@ -48,4 +48,4 @@ PARALLAX separates triage priority from criminality and labels network observati
 
 ## Connect
 
-Find me on [LinkedIn](https://www.linkedin.com/in/m-sachin-802a0a33a/) or explore a project's README for setup, architecture and validation evidence.
+Find me on [LinkedIn](https://www.linkedin.com/in/sachin-m-802a0a33a/) or explore a project's README for setup, architecture and validation evidence.
